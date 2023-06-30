@@ -4,7 +4,8 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 import Hydrafacial from "./cihazImage/hydrafacial.webp";
 import Hydrafacial2 from "./cihazImage/hydra2.webp";
-import RobotX from "./cihazImage/robot.webp";
+import UmeXCihaz from "./cihazImage/umeXCihaz.webp";
+import Umex from "./cihazImage/umex.webp";
 import Baslik from "./cihazImage/baslik.webp";
 import Magic from "./cihazImage/magicSlim.webp";
 import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
@@ -12,7 +13,7 @@ import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
 
 
 export default function Urunler() {
-  useDocumentTitle("Erzurum Güzellik Merkezi - Lazer Epilasyon");
+  useDocumentTitle("Elazığ Güzellik Merkezi - Lazer Epilasyon");
   return (
     <div className="col-12">
       <div
@@ -36,7 +37,7 @@ export default function Urunler() {
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                  RobotX Micro Lazer Cihazı
+                  UmeX Micro Lazer Cihazı
                 </button>
               </h2>
               <div
@@ -50,7 +51,13 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       alt=""
-                      src={RobotX}
+                      src={Umex}
+                      style={{ width: "30%", height: "500px" }}
+                    ></img>
+                     <img
+                      class="accPho"
+                      alt=""
+                      src={UmeXCihaz}
                       style={{ width: "30%", height: "500px" }}
                     ></img>
                     <p class="urunbaslik">
@@ -63,7 +70,7 @@ export default function Urunler() {
                       değişkenlik göstermektedir. Örneğin yüz bölgesinde bulunan
                       ince ve açık renkli tüylerde 810 nm Diode dalga boyu
                       etkili olurken bacak bölgesindeki kalın ve koyu renkli
-                      tüylerde 755 nm Alexandrite dalga boyu etkilidir. RobotX
+                      tüylerde 755 nm Alexandrite dalga boyu etkilidir. UmeX
                       Hybrid Alexandrite Laser epilasyon cihazı kıl köklerinin
                       tahrip edilebilmesi, kalıcı olarak yok olması için en
                       etkili ve güvenli iki dalga boyunu (755 nm Alexandrite -
@@ -76,7 +83,7 @@ export default function Urunler() {
                     </p>
                     <br />
                     <p class="urunyazi">
-                      RobotX yüksek soğutma kapasitesi sayesinde diğer soğuk hava
+                      UmeX yüksek soğutma kapasitesi sayesinde diğer soğuk hava
                       üflemeli cihazlardan iki katı daha fazla soğuk hava
                       üretir. Üretilen bu soğuk havayı kayba uğramadan, en kısa
                       yoldan başlığa ulaştıran özel tasarıma sahiptir. Turbo
@@ -88,16 +95,16 @@ export default function Urunler() {
                       yapılabilir. Yapılan atış kıl kökünü hedef alırken aynı
                       zamanda cilt yüzeyindeki tüyleri kusursuz kıl patlatma
                       özelliği ile yok eder ve pürüzsüz bir cilt ile uygulama
-                      biter. Dört mevsim uygulama özelliğine sahip olan RobotX
+                      biter. Dört mevsim uygulama özelliğine sahip olan UmeX
                       kombin lazer sistemi sayesinde en inatçı kıl tiplerinde
                       bile 4 – 6 seansta kesin ve kalıcı sonuçlar alabilirsiniz.
                     </p>
 
                     <p class="urunyazi">
-                      RobotX Hybrid Alexandrite lazer cihazı ile tek atış kıl
+                      UmeX Hybrid Alexandrite lazer cihazı ile tek atış kıl
                       kökünü tahrip etmek için yeterlidir fakat diğer IPL
                       cihazlarda ise tam etki alabilmek için üst üste birden
-                      fazla atış yapmak gereklidir. RobotX Hybrid Alexandrite
+                      fazla atış yapmak gereklidir. UmeX Hybrid Alexandrite
                       lazer cihazı 10 Hz çalışma hızında bile her atışında
                       enerjiyi iletir ve kıl kökünü tahrip eder fakat diğer
                       cihazlarda bu mümkün değildir. Çalışma hızı sayesinde
@@ -105,7 +112,7 @@ export default function Urunler() {
                       tasarruf edebilirsiniz. Diğer lazer cihazların da kalıcı
                       sonuçlar almak oldukça zordur. Bunun nedeni ise yeterli
                       enerji seviyesinde olmamalarıdır yeterli enerji seviyesine
-                      ulaşsalar dahi ciltte yanıklara neden olurlar. Fakat RobotX
+                      ulaşsalar dahi ciltte yanıklara neden olurlar. Fakat UmeX
                       Hybrid Alexandrite lazer cihazı minimum acı ve maksimum
                       enerjiyle cilde zarar vermeden kıl kökünü etkisiz hale
                       getirir.
@@ -133,7 +140,7 @@ export default function Urunler() {
                       bulunmaktadır. Yeni nesil değiştirilebilir hijyenik
                       silikon aparat atış esnasında ışınların operatörün gözüne
                       yansımasını ve oluşabilecek göz bozukluklarını engeller.
-                      Bu cihazın kullanılmasının önemi oldukça fazladır. RobotX
+                      Bu cihazın kullanılmasının önemi oldukça fazladır. UmeX
                       cihazı üfleme etkisi ile deriye zarar vermeden yalnızca
                       kıl köküne temas ederek orayı yakmayı hedefler. Derinize
                       hedef alınmayıp, temas edilmediği için herhangi bir acı
@@ -161,9 +168,9 @@ export default function Urunler() {
                     ></img>
                     <p class="urunbaslik">OTOMATİK KARARAN GÖZLÜK</p>
                     <p class="urunyazi">
-                      RobotXUltra Otomatik Kararan Gözlük, atış sırasında otomatik
-                      karararak konforlu bir uygulama sağlar RobotXUltra Otomatik
-                      Kararan Gözlük, tüm RobotXUltra cihazlarıyla birlikte
+                      UmeXUltra Otomatik Kararan Gözlük, atış sırasında otomatik
+                      karararak konforlu bir uygulama sağlar UmeXUltra Otomatik
+                      Kararan Gözlük, tüm UmeXUltra cihazlarıyla birlikte
                       ücretsiz olarak verilir. Koruma Özellikleri: Çok yönlü
                       absorpsiyon. Basit tasarım, etkili koruma boyutu Yüksek
                       kaliteli malzeme, güçlü darbe direnci, koruyucu etkisi ile
@@ -189,7 +196,7 @@ export default function Urunler() {
                     ></img>
                     <p class="urunbaslik">CİLT TİPİ ANALİZ CİHAZI</p>
                     <p class="urunyazi">
-                      Dilerseniz RobotXUltra’nın üzerinde takılı olan Hybrid
+                      Dilerseniz UmeXUltra’nın üzerinde takılı olan Hybrid
                       Alexandrtie başlığını ve Hybrid Diode başlığını dilerseniz
                       jelsiz hijyenik silikon ile tek tek patlatma atış modunda
                       dilersniz buzlanan başlık olarak jel ile birlikte hızlı
@@ -216,7 +223,7 @@ export default function Urunler() {
                       SİEMENS İLE DAHA GÜÇLÜ, BOSCH VEYA DURACELL İLE KESİNTİSİZ{" "}
                     </p>
                     <p class="urunyazi">
-                      RobotXUltra üstün kullanım ömrü sunarken elektrik
+                      UmeXUltra üstün kullanım ömrü sunarken elektrik
                       dalgalanmaları veya kesintileri yüzünden meydana gelen
                       arızalar ortadan kalkar. Elektrik akımı düzensizlikleri
                       ile meydana gelen Anakart ve İşlemci arızaları ortadan

@@ -7,7 +7,7 @@ import HomeIcon from "@material-ui/icons/Home";
 import ContactlessIcon from "@material-ui/icons/Contactless";
 import CategoryIcon from "@material-ui/icons/Category";
 
-import Logo4 from "./hmayraBeautyLogo.webp";
+import Logo4 from "./asperasBeautyLogo.webp";
 
 export default class Navbar extends Component {
   componentDidMount() {

@@ -2,12 +2,10 @@ import "./Hizmet.css";
 import React from "react";
 import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
-import y1 from "./8.webp";
-import y2 from "./9.webp";
-import y3 from "./10.webp";
+
 
 export default function YosunPeeling() {
-  useDocumentTitle("Erzurum Yosun Peeling");
+  useDocumentTitle("Elazığ Yosun Peeling");
   return (
     <div className="col-12">
       <div
@@ -56,32 +54,7 @@ export default function YosunPeeling() {
             yoğunluğuna ve özelliğine bağlı olarak önerilen seans sayıları
             tamamlanmalıdır.
           </p>
-          <div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-              <img
-                class="yImg"
-                title="Erzurum Yosun Peeling"
-                alt="Yosun Peeling"
-                src={y1}
-              ></img>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-              <img
-                class="yImg"
-                title="Erzurum Yosun Peeling"
-                alt="Yosun Peeling"
-                src={y2}
-              ></img>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-              <img
-                class="yImg"
-                title="Erzurum Yosun Peeling"
-                alt="Yosun Peeling"
-                src={y3}
-              ></img>
-            </div>
-          </div>
+          
           <h4>
             <strong>
               Allgea peelingin etki ettiği cilt problemleri nelerdir?&nbsp;

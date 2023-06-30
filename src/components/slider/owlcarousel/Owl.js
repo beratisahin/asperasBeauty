@@ -4,12 +4,13 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.min.css'
 import 'owl.carousel/dist/assets/owl.theme.default.min.css'
 
-import o1 from "../owlcarousel/owlIcons/1.webp";
-import o2 from "../owlcarousel/owlIcons/2.webp";
-import o3 from "../owlcarousel/owlIcons/3.webp";
-import o4 from "../owlcarousel/owlIcons/4.webp";
-import o5 from "../owlcarousel/owlIcons/5.webp";
-import o6 from "../owlcarousel/owlIcons/6.webp";
+import o1 from "../owlcarousel/owlIcons/1-.webp";
+import o2 from "../owlcarousel/owlIcons/2-.webp";
+import o3 from "../owlcarousel/owlIcons/3-.webp";
+import o4 from "../owlcarousel/owlIcons/4-.webp";
+import o5 from "../owlcarousel/owlIcons/5-.webp";
+import o6 from "../owlcarousel/owlIcons/6-.webp";
+import o7 from "../owlcarousel/owlIcons/7-.webp";
 
 
 
@@ -57,7 +58,7 @@ export default function Owl() {
             
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o4} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Erzurum Epilasyon"></img>
+                    <img src={o4} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Epilasyon"></img>
                    <p className="owlCarouselContent">Lazer Epilasyon</p>
                </div>
                 
@@ -67,14 +68,14 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o3} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Erzurum Epilasyon"></img>
+                    <img src={o3} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Epilasyon"></img>
                    <p className="owlCarouselContent">Yosun Peeling</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o1} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Elazığ Lazer Epilasyon"></img>
+                    <img src={o1} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Lazer Epilasyon"></img>
                    <p className="owlCarouselContent">Kalıcı Makyaj</p>
                </div> 
             </div>
@@ -83,22 +84,29 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o5} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Elazığ Lazer Epilasyon"></img>
+                    <img src={o5} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Lazer Epilasyon"></img>
                    <p className="owlCarouselContent">Hydrafacial Cilt Bakımı</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o6} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Erzurum Güzellik Merkezi"></img>
+                    <img src={o6} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Güzellik Merkezi"></img>
                    <p className="owlCarouselContent">Kavitasyon</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o2} className="owlCarouselImage" alt="Erzurum Güzellik Merkezi" loading="lazy" title="Erzurum Güzellik Merkezi"></img>
+                    <img src={o2} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Güzellik Merkezi"></img>
                    <p className="owlCarouselContent">Kirpik Lifting</p>
+               </div> 
+            </div>
+
+            <div className="item owl-slider">
+                <div className="owlCarouselTemp">
+                    <img src={o7} className="owlCarouselImage" alt="Elazığ Güzellik Merkezi" loading="lazy" title="Elazığ Güzellik Merkezi"></img>
+                   <p className="owlCarouselContent">Protez Tırnak</p>
                </div> 
             </div>
 

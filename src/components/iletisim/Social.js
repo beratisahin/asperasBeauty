@@ -15,7 +15,7 @@ import i5 from "./5.webp";
 import i6 from "./6.webp";
 
 function Iletisim() {
-  useDocumentTitle("Elazığ Lazer Epilasyon - Elazığ Asperas Beauty Salon ");
+  useDocumentTitle("Elazığ Lazer Epilasyon - Asperas Beauty Salon ");
   return (
     <div className="row">
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
@@ -61,24 +61,24 @@ function Iletisim() {
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
-        <a href="https://www.instagram.com/hmayra.beauty.erzurum/" target="_blank">
+        <a href="https://www.instagram.com/asperasbeauty/" target="_blank">
           <img src={i5} className="contactIcons" title="Instagram"></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Instagram:</b></span><br/>
-          @hmayra.beauty.erzurum
+          @asperasbeauty
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://www.facebook.com/profile.php?id=100091889173853"
+          href="https://www.facebook.com/profile.php?id=100093113144988"
           target="_blank"
         >
           <img src={i6} className="contactIcons" title="Facebook "></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Facebook:</b></span><br/>
-          @hmayra.beauty.erzurum
+          @asperasbeauty
         </p>
       </div>
     </div>

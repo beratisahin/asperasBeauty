@@ -53,7 +53,7 @@ header {
 .menu li a {
   display: block;
   text-decoration: none;
-  color: #d5890f ; /*2E6772  #168B80*/ 
+  color: #47b09d ; /*2E6772  #168B80*/ 
   padding: 1em 1.5em;
   font-size: smaller;
   font-weight: bold;
@@ -208,7 +208,7 @@ header {
     width: 2em;
     height: 0.25em;
     display: block;
-    background-color: #d5890f !important; 
+    background-color: #47b09d !important; 
     /*background: var(--light);*/
     position: absolute;
     right: 1rem !important;

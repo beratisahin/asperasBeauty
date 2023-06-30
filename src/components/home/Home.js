@@ -17,7 +17,7 @@ function Home() {
             textAlign: "center",
             fontSize: "x-large",
             marginTop: "1rem",
-            color: "#d5890f",
+            color: "#47b09d",
             fontFamily: "sans-serif",
           }}
         >
@@ -44,7 +44,7 @@ function Home() {
           style={{
             textAlign: "center",
             fontSize: "x-large",
-            color: "#d5890f",
+            color: "#47b09d",
             fontFamily: "sans-serif",
           }}
         >
@@ -70,7 +70,7 @@ function Home() {
               referrerpolicy: "no-referrer-when-downgrade",
               ariaHidden: "false",
               tabIndex: "0",
-              border: "2px #d5890f solid",
+              border: "2px #47b09d solid",
               paddingBottom: "0.5rem",
               paddingTop: "0.5rem",
             }}

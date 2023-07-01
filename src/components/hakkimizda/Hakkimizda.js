@@ -28,8 +28,8 @@ function Hakkimizda() {
             profosyenel ürünlerle kaliteden ödün vermeden uygulanmaktadır.
             Ayrıca en son teknoloji Lazer Epilasyon Cihazı ile istenmeyen
             tüylerden en kısa sürede kurtularak, pürüzsüz bir cilde
-            kavuşuyorsunuz. Ailenizden biri olmayı amaçlayan Elazığ Lavinya Golden
-            Güzellik Salonu; son derece güvenli, hijyenik ve modern olan ve aynı
+            kavuşuyorsunuz. Ailenizden biri olmayı amaçlayan Elazığ Asperas Beauty
+            Salonu; son derece güvenli, hijyenik ve modern olan ve aynı
             zamanda zevkli bir tasarıma sahip olan salonu ile değerli
             müşterilerine kendilerini evlerinde hissedecekleri sıcak, samimi ve
             konforlu bir ortam sunmaya devam ediyor.
@@ -47,7 +47,7 @@ function Hakkimizda() {
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
             detaylar için sosyal medya hesaplarımızı takipte kalın. Elazığ
-            Lavinya Golden Güzellik Salonu olarak şehrin merkezinde bulunan
+            Asperas Beauty Salon olarak şehrin merkezinde bulunan
             salonumuzda siz değerli müşterilerimize hizmet vermekteyiz. Bayanlar
             ve baylar için epilasyon ve cilt bakım hizmetlerimiz bulunmaktadır.
             Erkekler için ense, boyun, yanak, göbek, göğüs, sırt ve kol
@@ -56,7 +56,7 @@ function Hakkimizda() {
             bölgesi için epilasyon hizmetlerimiz mevcuttur. Hydrafacial ve
             medikal cilt bakımlarımız bulunmaktadır. G5 masajı, selülit
             sıkılaştırma, bölgesel inceltme hizmetlerimiz mevcuttur. UmeX
-            marka epilasyon cihazlarımızla 6 odalı salonumuzda aynı anda birkaç
+            marka epilasyon cihazlarımızla çok odalı salonumuzda aynı anda birkaç
             müşterimize hizmet verebilmekteyiz.
           </p>
         </div>
